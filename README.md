@@ -32,7 +32,7 @@ pip install pandas openpyxl
 Certifique-se de que a pasta raiz contenha o diretório `/Base de dados/` com os arquivos `Vendas.xlsx`, `Lojas.csv` e `Emails.xlsx` formatados corretamente.
 
 4. Configuração de Credenciais:
-Edite o arquivo `automacao.py` inserindo as credenciais SMTP nas variáveis de ambiente adequadas (evite expor senhas diretamente no código fonte).
+Edite o arquivo `automacao.py` inserindo as credenciais SMTP nas variáveis de ambiente adequadas.
 
 5. Execute o pipeline:
 python automacao.py
