@@ -21,7 +21,7 @@ O sistema foi estruturado para garantir a integridade dos cálculos antes da ger
 ## Como Executar Localmente
 
 1. Clone o repositório:
-git clone https://github.com/SeuUser/nome-do-repo.git
+git clone https://github.com/StJ0hn/AutomacaoDeRelatorios.git
 
 2. Provisione um ambiente virtual e instale as dependências:
 python -m venv venv
